@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scriptures proved to be the word of God, and the only foundation of faith, and rule for our obedience. Or, A clear conviction of the errours of those that are called Quakers. Who blasphemously affirm that the Scriptures are not the word of God, nor the foundation of faith, nor the only rule for our obedience ... / By Sampson Tounesend, minister of the Gospel, and pastor of S. Austins, and Saviours parish in Norwich.</title>
+            <author>Townsend, Sampson.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94772</idno>
+            <idno type="STC">Wing T1986A</idno>
+            <idno type="STC">ESTC R185411</idno>
+            <idno type="EEBO-CITATION">47683500</idno>
+            <idno type="OCLC">ocm 47683500</idno>
+            <idno type="VID">172959</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94772)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172959)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2659:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scriptures proved to be the word of God, and the only foundation of faith, and rule for our obedience. Or, A clear conviction of the errours of those that are called Quakers. Who blasphemously affirm that the Scriptures are not the word of God, nor the foundation of faith, nor the only rule for our obedience ... / By Sampson Tounesend, minister of the Gospel, and pastor of S. Austins, and Saviours parish in Norwich.</title>
+                  <author>Townsend, Sampson.</author>
+               </titleStmt>
+               <extent>[8], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S.G. for R. Tomlins at the Sun and Bible in Pye-Corner.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Headpieces, initials.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Inspiration --  Early works to 1800.</term>
+               <term>Bible --  Evidences, authority, etc. --  Early works to 1800.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172959:1" rendition="simple:additions"/>
+            <p>THE SCRIPTURES Proved to be the Word of God, And the only foundation of Faith, and Rule for our obedience. OR, A CLEAR CONVICTION Of the Errours of thoſe that are called QUAKERS. Who blaſphemouſly affirm, That the Scriptures are not the Word of God, nor the foundation of Faith, nor the only rule for our Obedience. <hi>Againſt which Errours, theſe two Propoſitions are maintained.</hi>
+               <list>
+                  <item>I. That the Scriptures contained in the Books of the Old and New Teſta<g ref="char:EOLhyphen"/>ment, commonly called the Bible, is the revealed Will &amp; Word of God.</item>
+                  <item>II. That the Scriptures which is the Word of God, is the only founda<g ref="char:EOLhyphen"/>tion for our faith, and the only rule for our obedience.</item>
+               </list>
+            </p>
+            <p>By <hi>SAMPSON TO<g ref="char:V">Ʋ</g>NESEND,</hi> Miniſter of the Goſpel, and Paſtor of S. <hi>Auſtins,</hi> and <hi>Saviours</hi> Pariſh in <hi>Norwich.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Prov. 13.13.</hi>
+               </bibl>
+               <p>Who ſo deſpiſeth the Word of God ſhall be deſtroyed.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Jer. 8.9.</hi>
+               </bibl>
+               <p>Lo, they have rejected the Word of the Lord, and what wiſdome is in them?</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Exod. 32.16.</hi>
+               </bibl>
+               <p>And the Tables were the work of God, and the writing was the writing of God, graven upon the Tables.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>2 Pet 1.21.</hi>
+               </bibl>
+               <p>For the propheſie came not in old time by the will of man, but holy men ſpake as they were moved by the holy Ghoſt.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Iſa. 8.20.</hi>
+               </bibl>
+               <p>To the Law and to the Teſtimony, If they ſpeak not according to this Word, it is, becauſe there is no light in them.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>S.G.</hi> for <hi>R. Tomlins</hi> at the Sun and Bible in <hi>Pye-Corner.</hi> 1654.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:172959:2"/>
+            <pb facs="tcp:172959:2"/>
+            <head>TO CHRISTOPHER ADKINSON, JAMES LANCASTER, GEORGE WHITEHEAD, and THOMAS SIMONDS: <hi>Now in</hi> Norwich <hi>Gaol, for their blaſphe<g ref="char:EOLhyphen"/>my and miſcariages.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>F ever the truth of God were turned in<g ref="char:EOLhyphen"/>to a lye,<note place="margin">Rom. 1.25</note> It is by you that deny the Scriptures to be the truth of God, and pretend immediate revelations to be the rule for your actions. I ſhall mind you of a paſſage of a reverend miniſter now with God:<note n="*" place="margin">
+                  <hi>Mr.</hi> Bur<g ref="char:EOLhyphen"/>roughs on Hoſea <hi>8.12</hi> pag. <hi>91.</hi>
+               </note> he ſaith, <hi>There is a generation of men, riſing now, if not riſen, that begin to have vile thoughts of the written word of God, and think to underſtand the mind of God otherwiſe, &amp;c. But</hi> (ſaith he) <hi>when they are rotten, and it may be when their ſouls are periſhed in hell, the writ<g ref="char:EOLhyphen"/>ten word of God ſhall ſtand, and be honourable in the eies of all his Saints.</hi> You acknowledge the Scriptures to be the trnth, and yet deny them to be the
+<pb facs="tcp:172959:3"/>word of God. A ſtrange paradox; As if the ſcrip<g ref="char:EOLhyphen"/>tures, which are called the truth of God, And God, which is the God of truth, ſhould not be the author of the truth:<note place="margin">1 King. 17.24. Rom 3.7. Deut. 32.4 Pſal. 31.5.</note> Or as if man, which is vanity, yea a ly, ſhould yet be the onely author of the truth. Upon this your error depe<g ref="char:cmbAbbrStroke">̄</g>d your other errors of denying the ſcriptures to be the only ground of your faith, and the onely rule for your obedience: for did you believe the ſcriptures to be the word of God, they would cleerly convince you of the errors of your judgement and practice in many things. Let me reaſon with you a little; you acknowledge the ſcripture to be the truth, you muſt of neceſſity alſo grant that whatſoever is contrary to truth is an error: And having granted this, ſee what will follow upon it by way of trial of your judgement and practice. It is your judgement, that you are perfect and free from all ſin: ſee this to be an error, contrary to the truth, in <hi>Eccle.</hi> 7.20. 1 <hi>John</hi> 1.8, 10. You deny the power of the Magiſtrate in the matters of God, contrary to the truth in <hi>Rom.</hi> 13.1. to 6. <hi>Joh.</hi> 31.11, 28. You not only ſpeak evill of governers, but of government alſo, contrary to the truth in <hi>Tit.</hi> 3.2. 2 <hi>Pet.</hi> 2.10. <hi>Jude</hi> 8. You condemn the miniſters of the Church of <hi>England,</hi> and deſpiſe them as falſe teachers, and ſay, they know nothing of the true light: although they ſpeak nothing but what is according to the Law and teſtimo<g ref="char:EOLhyphen"/>nie of God in his word, which is the rule to try all teachers by, <hi>Iſa.</hi> 8.20. This your judgement is an error, it being contrary to <hi>Tit.</hi> 2.15. and
+<pb facs="tcp:172959:3"/>know, that in thus doing, ye doe not onely deſpiſe man, but God. I ſhall not foul paper,<note place="margin">1 Theſ. 4.8. Luk. 10.16.</note> in mentioning your judging, cenſuring, and con<g ref="char:EOLhyphen"/>demning, of both Magiſtrates and Miniſters; onely ſee how contrary this your practice is to truth, <hi>Mat.</hi> 7.1, 2. <hi>Rom.</hi> 14.10, 13. <hi>Jam.</hi> 4.11. You condemn rhe miniſters of the Church of <hi>England</hi> for preaching for hire; whereas ye do not know their ends in preaching; and thus you are become judges of evill thoughts;<note place="margin">Jam. 2.4.</note> Contrary to the truth in 1 <hi>Cor.</hi> 4.5.—Judge nothing before the time. And you deny that miniſters ſhould take any wages for their work: But your error herein you may eaſily perceive, If you conſider that Chriſt and the Apoſtle give ſtrong reaſons for their maintenance, <hi>Mat.</hi> 10.10. <hi>Luk.</hi> 10.7. 1 <hi>Tim.</hi> 5.18. 1 <hi>Cor.</hi> 9.13, 14. note it. Likewiſe the Apoſtle himſelfe took wages of the Churches, to do ſervice in the miniſterie, 2 <hi>Cor.</hi> 11.8. and laid an injun<g ref="char:EOLhyphen"/>ction upon the people to give him wages, <hi>Gal.</hi> 6.6. Let him that is taught in the word communicate unto him that teacheth, in all good things. Mark, he doth not ſay, let him con<g ref="char:EOLhyphen"/>tribute (as an almes) but communicate, as a right, as wages: And in the next verſe,<note place="margin">Gal. 6.7.</note> he intimates, that God is mocked, when his Mi<g ref="char:EOLhyphen"/>niſters are not maintained. But God will not be mocked, neither will he be robbed, but they ſhall hear <hi>ye are Curſed.</hi>
+               <note place="margin">Mal. 3.8.9 Jer. 12.13</note> I ſhall menti<g ref="char:EOLhyphen"/>on no more of your errors, My deſigne (ac<g ref="char:EOLhyphen"/>cording to promiſe) is, To prove the Scrip<g ref="char:EOLhyphen"/>tures to be the word of God; the onely ground
+<pb facs="tcp:172959:4"/>of faith, and rule for our obedience: which I have here preſented you with. Read it, ex<g ref="char:EOLhyphen"/>amine it: if it be not truth, witneſſe by truth againſt it. If it be truth (as undoubtedly you will find it ſo) then ſubmit to it, be ruled by it; And doubtleſſe your bodies ſhall be freed from your deſerved impriſonment, and your ſouls from the threatned damnation againſt falſe Prophets,<note place="margin">2 Pet. 2.1, 2, 3. 1 Tim. 5:12.</note> and ſuch as caſt off their firſt faith. I reſt an enemie to error, and</p>
+            <closer>
+               <signed>A friend to truth, <hi>Sampſon Touneſend.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my ſtudie</hi> 
+                  <date>January 29. 1654/5</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:172959:4"/>
+            <head>THE EPISTLE To the READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F thy heart be not grieved to hear the blaſphemy of thoſe that deny Gods truth, his meſsengers, his or<g ref="char:EOLhyphen"/>dinances, thou haſt much cauſe to ſuſpect thy love to God, his truth, or ordinances. The firſt ſtep to errour, is, to have our love abated towards the truth. You need not marveil, if thoſe that receive not the truth in the love of it, that they may be ſaved, but deny God to be the au<g ref="char:EOLhyphen"/>thour of the truth,<note place="margin">2 Theſ. 2.10, 11, 12.</note> that they are carried on by ſtrong deluſions to believe a lye, that they might be damned: the judgement is long ſince threatned. When men forſake the right way, they muſt needs goe astray. When men forſake the fountain of living water,<note place="margin">2 Pet. 2.15</note> then doe they dig to themſelves broken ciſterns that can hold no water. When ſound doctrine will not be indured,<note place="margin">2 Tim. 4.3, 4.</note> then ſuch as turn away from the truth are regarded. Thoſe that deny the ſcriptures to be the word of God, turne to be filthy dreamers, deſpiſing dominion, and ſpeaking evill of dignities,<note place="margin">Iude 8.</note> (as <hi>Jude</hi> ſpeaks) they tell their dreames and pretended revelations to the people, and would per<g ref="char:EOLhyphen"/>ſwade men, they are the word of God;<note place="margin">Jer. 23.25, 26, 27.</note> but as the prophet <hi>Jeremi<g ref="char:EOLhyphen"/>ah</hi> ſaith, The Lord is againſt them that propheſie falſe dreams,<note place="margin">Jer. 23.31, 32.</note> that uſe their tongues, and ſay, <hi>he ſaith.</hi> Beloved, theſe are the latter times (propheſied of long ſince) in which ſome ſhall depart from the faith, giving heed unto ſeducing ſpirits, and Doctrines of Devils: For if ever there were a Doctrine of Devils,<note place="margin">1 Tim. 4.</note> or a De<g ref="char:EOLhyphen"/>viliſh Doctrine vented on earth, this is one; To perſwade men the ſcriptures are not the word of God, and that they must be gui<g ref="char:EOLhyphen"/>ded only by the light within them. If the Divell can but perſwade men to believe this doctrine; it will be eaſie to perſwade them, to deny the uſe of all meanes of grace, and all principles of religion, &amp; to be led altogether by the ſuggestions of Sathan, while he per<g ref="char:EOLhyphen"/>ſwades
+<pb facs="tcp:172959:5"/>them it is the light within them, by which onely they muſt be guided: contrary to <hi>Iſa. 8.20.</hi> Yet theſe men that teach this Deviliſh Doctrine, with many more, would perſwade the world (although they juſtly ſuffer for their ungodly practice) that they are perſecuted, and ſuffer for the cauſe of God. But we know, it is not the ſuffering, but the cauſe, that makes the Martyr: and ſure I am,<note place="margin">Mat. 5.10.</note> they ſuffer not for righteouſneſſe ſake; and therefore not for the cauſe of God:<note place="margin">2 Cor. 4.4.</note> 
+               <g ref="char:V">Ʋ</g>nleſſe it be the God of this world, who hath blinded their miuds &amp;c. Shall ſuch as poyſen mens bodies be puniſhed with death? And muſt thoſe that poyſon mens ſouls with Damnable doctrines goe unpuniſhed? You may read at your leaſure, how ſevere God is againſt ſeducers, in <hi>Deut. 13.</hi> To conclude, art thou one that ſtandeſt firm in the faith? pray to God, thou maiſt keep thy ſtanding; art thou one that art wa<g ref="char:EOLhyphen"/>vering minded? then adhere to and follow after thoſe teachers that are ſound in the faith, whom God hath ſet over you; And know,<note place="margin">2 Pet. 2.2.14.</note> that unſtable ſouls are they that are beguiled by falſe teach<g ref="char:EOLhyphen"/>ers: Wherefore hearken not to them, and as Chriſt commands you,<note place="margin">Luk. 17.23.</note> go not after them, nor follow them: And make uſe of his fol<g ref="char:EOLhyphen"/>lowing antidote againſt them. And art thou one that art alrea<g ref="char:EOLhyphen"/>dy ſeduced into the errour of denying the ſcriptures to be the word of God, Let me tell thee, that what is written in this book, ſhall either convince thee, or be a witneſſe againſt thee. And if any one receive any benefit by theſe my labours: all that I deſire is, they would bleſſe God for it; and let him have a ſhare in your prayers, who is willing to be</p>
+            <closer>
+               <signed>Your Servant, in and for the truth, <hi>Sampſon Touneſend.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:172959:5"/>
+            <head>THE SCRIPTVRES Proved to be the Word of God.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>DAN. 10.21.</hi>
+                  </bibl>
+                  <p>I will ſhew thee that which is noted in the Scripture of Truth.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">H</seg>Aving undertaken to maintain a<g ref="char:EOLhyphen"/>gainſt the <hi>Quakers</hi> theſe two Pro<g ref="char:EOLhyphen"/>poſitions:
+<list>
+                  <item>I. That the Scriptures contained in the Books of the Old and New Teſtament, commonly called the Bible, is the revealed Will and Word of God.</item>
+                  <item>II. That the Scriptures, which is the Word of God, is the only foundation for our faith, and the only rule for our obedience.</item>
+               </list>
+            </p>
+            <p>I begin with the firſt: And I ſhall prove, that the Scrip<g ref="char:EOLhyphen"/>tures is the Word of God; <hi>Firſt,</hi> by Scripture it ſelf; <hi>Se<g ref="char:EOLhyphen"/>condly,</hi> by Reaſon: He that will not believe the Scriptures, is an Infidel; That will not hear the voice of Reaſon, is a Beaſt. The Scriptures ought to convince us as Chriſtians; Reaſon, as rational men. And I doubt not but by both to clear up to every one (that reſolves not to be wilfully blind) that the Scriptures are the revealed Will of God.</p>
+            <p n="1">1. I ſhall prove, that the Scriptures are the Word of God, by the teſtimony of the Scriptures. We find through<g ref="char:EOLhyphen"/>out
+<pb n="2" facs="tcp:172959:6"/>the Scriptures in ſeveral places, that God is ſaid, 1. To ſpeak them. 2. To write them: or, 3. To cauſe them to be written. 4. They bear Gods name and title upon them. Laſtly, by the titles that are given to the Miniſters that de<g ref="char:EOLhyphen"/>clare them. I ſhall give you ſeveral inſtances in Scripture for all theſe.</p>
+            <p n="1">1. The Scriptures declare in a multitude of places, That God ſaid the words that are therein written; I ſhall give you ſome few for all: <hi>Gen.</hi> 1.3. God ſaid, &amp;c. and in ſeveral places in that Chapter, and throughout the Book it is often written, God ſaid, and the Lord ſaid; and in <hi>Exod.</hi> 3.14. And God ſaid unto <hi>Moſes,</hi> I am that I am. And in many places it is ſaid, The Lord ſpake to <hi>Moſes,</hi> and it is written what God ſaid to him. <hi>Exod.</hi> 20.1. God ſpake all theſe words, ſaying, &amp;c. <hi>Lev.</hi> 10.3. This is that the Lord ſpake, ſaying, I will be ſanctified in them that come nigh me. <hi>Num.</hi> 11.25. And the Lord came down in a Cloud and ſpake un<g ref="char:EOLhyphen"/>to him. <hi>Deut.</hi> 5.22. Theſe words the Lord ſpake unto all your aſſembly. <hi>Joſh.</hi> 24.2. And <hi>Joſhua</hi> ſaid unto all the peo<g ref="char:EOLhyphen"/>ple, Thus ſaith the Lord God of <hi>Iſrael. Joſh.</hi> 7.13. Thus ſaith the Lord, There is an accurſed thing in the midſt of thee O <hi>Iſrael.</hi> 1 <hi>Sam.</hi> 2.30. Wherefore the Lord God of <hi>Iſrael</hi> ſaith, I ſaid indeed, &amp;c. 1 <hi>Sam.</hi> 15.2. Thus ſaith the Lord of Hoſts. 1 <hi>Kin.</hi> 8.15. Bleſſed be the Lord God of <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> which ſpake with his mouth unto <hi>David</hi> my Father, and hath with his hand fulfilled it, ſaying, &amp;c. 1 <hi>Chron.</hi> 21.9. And the Lord ſpake unto <hi>Davids</hi> Seer, ſaying, &amp;c. <hi>Iob</hi> 1.7, 8. And the Lord ſaid unto Satan. <hi>Pſal.</hi> 50.1. The mighty God, the Lord hath ſpoken, &amp;c. <hi>Pſal.</hi> 12.5. Now will I a<g ref="char:EOLhyphen"/>riſe, ſaith the Lord. <hi>Iſa.</hi> 24.3. The Lord hath ſpoken this word. And in many places he ſaith, Thus ſaith the Lord. <hi>Ier.</hi> 1.1, 2, 4, 9. The words of <hi>Ieremiah,</hi> &amp;c. to whom the word of the Lord came, &amp;c. The Lord ſaith unto me, Be<g ref="char:EOLhyphen"/>hold, I have put my words in thy mouth; and in many pla<g ref="char:EOLhyphen"/>ces in that Book he ſaith, Thus ſaith the Lord. <hi>Ezek.</hi> 7.1. The word of the Lord came unto me, ſaying; and in many places alſo he ſaith, Thus ſaith the Lord. <hi>Hoſ.</hi> 1.1. The word of the Lord that came unto <hi>Hoſea. Ioel</hi> 1.1. The word of
+<pb n="3" facs="tcp:172959:6"/>the Lord that came to <hi>Joel. Amos</hi> 3.1. Hear the Word that the Lord hath ſpoken; and <hi>Ver.</hi> 8. The Lord hath ſpoken, who can but propheſie? And in many places he ſaith, Thus ſaith the Lord. <hi>Obad.</hi> 1. The viſion of <hi>Obadiah,</hi> Thus ſaith the Lord. <hi>Ionah</hi> 1.1. Now the Word of the Lord came to <hi>Jonab. Micah</hi> 1.1. The Word of the Lord that came to <hi>Mi<g ref="char:EOLhyphen"/>cah. Nabum</hi> 1.12. Thus ſaith the Lord. <hi>Zepha.</hi> 1.1. The Word of the Lord which came unto <hi>Zephaniah. Hag.</hi> 2.1. The Word of the Lord by the Prophet <hi>Haggai,</hi> ſaying. <hi>Zach.</hi> 1.1. The Word of the Lord came unto <hi>Zachariah. Mal.</hi> 1.1. The bur<g ref="char:EOLhyphen"/>den of the Word of the Lord to <hi>Iſrael</hi> by <hi>Malachi.</hi> Thus have I noted ſome few of a multitude of Scriptures in the Old Teſtament, that declare, What is written in the Scrip<g ref="char:EOLhyphen"/>tures, is no other but what God ſaid, and therefore his Word. I ſhall now alſo mention a few of the many Scriptures in the New Teſtament, that declare it to bee the Word of God, becauſe the Lord did ſpeak it. <hi>Luke</hi> 12.20. But God ſaid, Thou fool, &amp;c. <hi>Heb.</hi> 1.1, 2. God, who at ſundry times, and in divers manners ſpake in time paſt unto the Fathers by the Prophets, hath in theſe laſt daies ſpoken unto us by his Son. And in every place almoſt throughout the 4 Evan<g ref="char:EOLhyphen"/>geliſts, the verie words of our Saviour Chriſt the Son of God, God and Man, are mentioned, <hi>Mat.</hi> 4.4, 7.10. In all which places, Jeſus Chriſt repels the Devils temptations, by telling him what God hath written in the Old Teſtament. I ſhall not need to mention the ſayings and doings of our Saviour Jeſus Chriſt, which are frequently recorded in the New Teſtament. And hence it is, that it is called the Word of Chriſt. <hi>Col.</hi> 3.16. Let the Word of Chriſt dwell in you. And the Goſpel is called the Goſpel of Chriſt. <hi>Mark</hi> 1.1. The beginning of the Goſpel of Jeſus Chriſt the Sonne of God. <hi>Rom.</hi> 1.16. I am not aſhamed of the Goſpel of Chriſt. I ſhall not need to multiply more Texts of Scripture. It is called the Word of the truth of the Goſpel. <hi>Col.</hi> 1.5. Becauſe Jeſus Chriſt that is the Truth, (<hi>John</hi> 14 6.) is the Authour of it. And thus it appears the Scriptures are the Word of God, becauſe as the Prophet <hi>Micah</hi> ſaith, <hi>Micah</hi> 4.4. The mouth of the Lord of Hoſts hath ſpoken it. For it is all
+<pb n="4" facs="tcp:172959:7"/>one to ſay the Scripture ſaith, and God ſaith. <hi>Heb.</hi> 13.5. He (that is God) hath ſaid, I will never leave thee nor for<g ref="char:EOLhyphen"/>ſake thee. And where ſaith he it? In the Scripture, <hi>Joſh.</hi> 1.5. The word <hi>Scripture</hi> is put for God ſpeaking in the Scrip<g ref="char:EOLhyphen"/>ture. <hi>Gal.</hi> 3.22. The Scripture hath concluded all under ſin, that the promiſe by faith of Jeſus Chriſt might be given to them that believe. And in <hi>Rom.</hi> 11.32. (it is ſaid) God hath concluded them all in unbelief, that he might have mercy upon all. And thus it clearly appears, that the Scrip<g ref="char:EOLhyphen"/>tures are the Word of God, becauſe God hath ſpoken them.</p>
+            <p n="2">2. I ſhall prove, that the Scriptures are the Word of God, becauſe God writ them. The two Tables of ſtone delivered unto <hi>Moſes,</hi> were written with the finger of God. <hi>Exod.</hi> 31.18. <hi>Deut.</hi> 9.10. <hi>Exod.</hi> 32.16. And the Tables were the work of God, and the writing was the writing of God, graven upon the Tables. <hi>Hoſ.</hi> 8.12. I have written to them the great things of my Law. And thus it appears the Scrip<g ref="char:EOLhyphen"/>tures are the Word of God, becauſe they are written by God. But here ariſes an Objection, that I muſt needs re<g ref="char:EOLhyphen"/>ſolve before I goe any farther, and that is this.</p>
+            <p>Object. <hi>How can the Scriptures be the Word of God, when we know the Prophets and Apostles writ much of them?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To which I anſwer, God is ſaid to have written the Scriptures in theſe two reſpects:</p>
+            <p>Firſt, becauſe the Ten Commandments were undoubtedly written by God himſelf, (as before was proved) and all the reſt that is written in the Volume of the Book, is but as it were a Comment or Expoſition of thoſe ten Precepts.</p>
+            <p>Secondly, God is ſaid to have written the Scriptures, (though men were the inſtruments) becauſe that what they writ was by the appointment of God, and by the help and aſſiſtance of God; God appointed them to write it, <hi>Exod.</hi> 17.14. And the Lord ſaid unto <hi>Moſes,</hi> Write this for a me<g ref="char:EOLhyphen"/>morial in a Book. <hi>Iſa.</hi> 8.1. Moreover, the Lord ſaid unto me, Take thee a great Roul, and write it with a mans pen, &amp;c. <hi>Jer.</hi> 30.2. Thus ſpeaketh the Lord God of <hi>Iſrael,</hi> ſaying, Write thee all the words that <hi>I</hi> have ſpoken to thee in a Book. <hi>Jer.</hi> 36.1, 2. This is the word that came unto <hi>Iere<g ref="char:EOLhyphen"/>miah</hi>
+               <pb n="5" facs="tcp:172959:7"/>from the Lord ſaying, Take unto thee a Roul of a Book, and write therein all the words that I have ſpoken unto thee, &amp;c. <hi>Hab.</hi> 2.2. And the Lord anſwered me, and ſaid, Write the Viſion, and make it plain upon Tables, that he may run that readeth it. And <hi>Iohn</hi> in the <hi>Revelations,</hi> is commanded by Chriſt, to write the things which he had ſeen, and the things which are, and things which ſhall be hereafter, <hi>Rev.</hi> 1.19. And in <hi>Rev.</hi> 14.13. I heard a voice from Heaven, ſay<g ref="char:EOLhyphen"/>ing unto me, Write Bleſſed, &amp;c. And thus it appeares the Scriptures are the written Word of God, becauſe God him<g ref="char:EOLhyphen"/>ſelf writ them, and cauſed them be written.</p>
+            <p n="3">3. I come now in the third place to prove by Scripture, that they are the Word of God, becauſe what the Prophets and Apoſtles writ, it was written as from the mouth of the Lord, by the help and aſliſtance of the Spirit of God. Hence it is ſaid, That God ſpake by their mouths. <hi>Luke</hi> 1.70. As he ſpake by the mouth of his holy Prophets which have bin ſince the world began. <hi>Acts</hi> 1.16. This Scripture muſt needs have been fulfilled, which the Holy Ghoſt by the mouth of <hi>David</hi> ſpake. And <hi>Acts</hi> 3.18, 21. But thoſe things, &amp;c. which God hath ſpoken by the mouth of all his holy Prophets ſince the world began. <hi>Iſa.</hi> 51.16. I have put my words in thy mouth, <hi>Ier.</hi> 1.9. And ſaith <hi>David,</hi> 2 <hi>Sam.</hi> 23.2. The Spi<g ref="char:EOLhyphen"/>rit of the Lord ſpake by me, &amp; his Word was in my tongue; By all which Scriptures it clearly appears, that God helpt them to ſpeak, he gave them a mouth, and wiſdome to de<g ref="char:EOLhyphen"/>clare his mind. And we find that they ſpake by the help of the Spirit of God. <hi>Neh.</hi> 9 30. Yet many years didſt thou forbear them, and teſtified againſt them, by thy Spirit in thy Prophets. 2 <hi>Pet.</hi> 1.21. For the propheſie came not in old time by the will of man, but holy men of God ſpake as they were moved by the Holy Ghoſt. 2 <hi>Tim.</hi> 3.16. All Scrip<g ref="char:EOLhyphen"/>ture is given by inſpiration of God. And thus you ſee the Pen men of the Scriptures were inſpired by the Holy Ghoſt to write them. And they were ſo aſſiſted by God in that work, as God is ſaid to ſpeak by their mouths; and there<g ref="char:EOLhyphen"/>fore the Scriptures muſt needs be the Word of God.</p>
+            <p n="4">4. I come in the fourth place to prove by Scripture, that
+<pb n="6" facs="tcp:172959:8"/>it is the Word of God, by the ſeveral Epithets or Titles that are given to the Scripture. I ſhall inſtance in ſome few of the many that are throughout the Scriptures. They are cal<g ref="char:EOLhyphen"/>led the Law of the Lord, <hi>Pſa.</hi> 1.2. And often in the 119 <hi>Pſa. David</hi> acknowledges it to be Gods Law; and <hi>Pſ.</hi> 81.4. The Law of the God of <hi>Iacob.</hi> They are called the Oracles of God <hi>Rom</hi> 3.2. 1 <hi>Pet.</hi> 4.11. The Counſel of God, <hi>Act.</hi> 20.27. <hi>Pſa.</hi> 33.11. <hi>Prov.</hi> 19.21. The Will of the Lord, <hi>Eph.</hi> 5.17. the Myſtery of Gods will, <hi>Eph.</hi> 1.9. the Goſpel of God, 1 <hi>Theſſ.</hi> 2.9. the glorious Goſpel of the bleſſed God, 1 <hi>Tim.</hi> 1.11. the Goſpel of Chriſt, <hi>Rom.</hi> 1.16. <hi>Rom.</hi> 15.19. the words of the Lord, <hi>Ier.</hi> 36.8. the words of the living God, <hi>Ier.</hi> 23.36. the words of the Lord Jeſus, <hi>Acts</hi> 20.35. and very frequent<g ref="char:EOLhyphen"/>ly they are called the Word of God, <hi>Iſa.</hi> 40.8. <hi>Mark</hi> 7.13. <hi>Rom.</hi> 10.17. and very remarkable is that place in 1 <hi>Theſſ.</hi> 2.13. For this cauſe thank we God without ceaſing, becauſe when ye received the Word of God which ye heard of us, ye recei<g ref="char:EOLhyphen"/>ved it not as the word of men, but as it is in truth the Word of God. And to conclude this, God himſelf calls the Scrip<g ref="char:EOLhyphen"/>tures his Word. <hi>Zach.</hi> 1.6. My Word and my Statutes. <hi>Micah</hi> 2.7. Does not my Word doe good to him that walks up<g ref="char:EOLhyphen"/>rightly? And <hi>Ezek.</hi> 2.7. Thou ſhalt ſpeak my words unto them. And ſaith Chriſt, <hi>Mark</hi> 8.38. Whoſoever ſhall be a<g ref="char:EOLhyphen"/>ſhamed of me and of my words. By all which places it clear<g ref="char:EOLhyphen"/>ly appears, that the Scriptures are the Word of God, becauſe they bear the title and name of God upon them, and God himſelf acknowledges them to be his words.</p>
+            <p>Laſtly, in the fifth and laſt place, I come to prove, that the Scriptures are the Word of God, by the titles that are given to the Miniſters that declare the Scriptures: they are called the Meſſengers of the Lord, <hi>Hag.</hi> 1.13. then ſpake <hi>Hag<g ref="char:EOLhyphen"/>gai</hi> the Lords Meſſenger in the Lords Meſſage unto the peo<g ref="char:EOLhyphen"/>ple. <hi>Mal.</hi> 2.7. The Prieſts lips ſhould preſerve knowledge, and they ſhould ſeek the Law at his mouth, for he is the Meſſenger of the Lord of Hoſts. And 2 <hi>Chron.</hi> 36.15, 16. The Lord God of their Fathers ſent to them by his Meſſen<g ref="char:EOLhyphen"/>gers, &amp;c. But they mocked the Meſſengers of God, and de<g ref="char:EOLhyphen"/>ſpiſed his words. And they are called the Lords Miniſters,
+<pb n="7" facs="tcp:172959:8"/>
+               <hi>Ioel</hi> 1.9. and <hi>Iſa.</hi> 61.6. Ye ſhall be named the Prieſts of the Lord; men ſhall call you the Miniſters of our God. And the Apoſtle calls them, Miniſters of the New Teſtament. 2 <hi>Cor.</hi> 3.6. Miniſters of Chriſt, and ſtewards of the myſte<g ref="char:EOLhyphen"/>ries of God, 1 <hi>Cor.</hi> 4.1. Ambaſſadours for Chriſt, 2 <hi>Cor.</hi> 5.20. Now if the Scriptures be not the Word of God, how can thoſe that declare them, be truly called the Meſſengers of God, and the Miniſters of God and of Chriſt, and the ſtewards of the Myſteries of God, and Ambaſſadors for Chriſt? but they are thus called in the Scripture; therefore the Scriptures are the Word of God, elſe the Meſſengers thereof could not be the Lords Meſſengers. And thus have I done with the firſt thing propounded, To prove by the teſtimony of Scripture it ſelf, that they are the Word of God; and that becauſe God ſpake them, writ them, or cauſed them to bee written: And they are frequently in Scripture called the Word of God; and the Meſſengers that declare them are called the Meſſengers and Miniſters of God, and Ambaſſadors for Chriſt, and therefore they muſt needs be the Word of God.</p>
+            <p n="2">2. I come now in the ſecond place, to ſhew by Reaſons that the Scriptures are the Word of God. I ſhall lay down ſeveral Reaſons.</p>
+            <p>
+               <hi>Reaſon</hi> 1. The Antiquity of the Scriptures do clearly prove them to bee of God: For man could not write of things done before ever he had a beeing. But the works of the five firſt dayes Creation are mentioned in Scripture, and man was not made till the ſixt day, <hi>Gen.</hi> 1. therefore they muſt needs be the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 2. They diſcover thoſe things man could not de<g ref="char:EOLhyphen"/>clare: As that the world was made of nothing; that man was at the firſt made of the duſt of the Earth; that there is but one God in eſſence, and yet that in this one eſſence there ſhould be three Perſons; that a Virgin ſhould bring forth a Son; that God ſhould take the nature of man upon him, and ſuffer, &amp;c. theſe things cannot come into the thoughts of man; but the Scriptures declare theſe things; therefore they are the Word of God.</p>
+            <pb n="8" facs="tcp:172959:9"/>
+            <p>
+               <hi>Reaſon</hi> 3. No word of man can diſtinguiſh the true God from the falſe; but this doth the Scriptures, <hi>Iſa.</hi> 41.20. to 24. therefore they are the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 4. No word of man can work a change in his heart, and make the ſtouteſt heart to tremble at the hearing thereof: But the Scriptures convert the ſoul, and work grace, <hi>Pſal.</hi> 19.7. <hi>Iohn</hi> 15.3. <hi>Iames</hi> 4.5.6. and the opening thereof will make the heart burn and tremble, <hi>Luke</hi> 24.32. <hi>Acts</hi> 24.25. therefore they are the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 5. No word of man is able to make a man wiſe unto ſalvation. But the holy Scriptures are able to make a man wiſe unto ſalvation, 2 <hi>Tim.</hi> 3.15. therefore they are the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 6. No man, only by his own writings, can diſco<g ref="char:EOLhyphen"/>ver Jeſus Chriſt. But the Scriptures diſcover Jeſus Chriſt, <hi>Acts.</hi> 18.28. <hi>Iohn</hi> 1.45. Therefore they are the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 7. No man can make Laws for mens thoughts: But the Scriptures diſcover mens thoughts, and make Laws for them, <hi>Heb.</hi> 4.12. <hi>Eccleſ.</hi> 10.20. Therefore they are the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 8. Men make Laws to binde thoſe that are un<g ref="char:EOLhyphen"/>der them. But the Scriptures make Laws to bind the grea<g ref="char:EOLhyphen"/>teſt Rulers upon the Earth. Therefore they are the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 9. It ſpeaks in a lofty ſtyle, to the King, and the ſubject, and to all men alike. But thus doth not the word of man; for that puts a diſtinction between perſons. There<g ref="char:EOLhyphen"/>fore the Scriptures are the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 10. No writings of man can procure eternal life to them that obſerve and do them. But to believe and to do what the Scriptures require, will bring eternal life; <hi>Iohn</hi> 5.24, 29. <hi>Deut.</hi> 32.46, 47. <hi>Ezek.</hi> 20.11. <hi>Iohn</hi> 6.68. <hi>Iohn</hi> 20.31. Therefore they are the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 11. No word of man can be truly called righte<g ref="char:EOLhyphen"/>ous, pure, or holy; For who can bring a clean thing out of an unclean? <hi>Iob</hi> 14.4. But the Scriptures are righteous, pure, and holy, <hi>Pſ.</hi> 19.8, 9. <hi>Pſ.</hi> 119 151, 172. <hi>Rom.</hi> 7.12. There<g ref="char:EOLhyphen"/>fore it is the Word of God.</p>
+            <pb n="9" facs="tcp:172959:9"/>
+            <p>
+               <hi>Reaſon</hi> 12. If the Scriptures be not the Word of God, but of man, then Miniſters ought to teach nothing contained in the Scriptures, for Doctrines or Rules for Gods worſhip, <hi>Mat.</hi> 15.9. In vain do they worſhip me, teaching for do<g ref="char:EOLhyphen"/>ctrines the commandments of men, <hi>Iſa.</hi> 29.13. <hi>Col.</hi> 2.22. But Miniſters ought to teach no other doctrine, but what is con<g ref="char:EOLhyphen"/>tained in the Law and in the Goſpel, <hi>Iſa.</hi> 8.20. 1 <hi>Tim.</hi> 1.3, 10, 11. And if any man bring any other Goſpel then what is already received, he is accurſed, <hi>Gal.</hi> 1.9. Or any that ſhall adde or diminiſh from the propheſie of the Book of the Scriptures, <hi>Rev.</hi> 22.18. <hi>Deut.</hi> 4.2. <hi>Prov.</hi> 30.6. And the Scrip<g ref="char:EOLhyphen"/>tures alſo teach us an holy life, 1 <hi>Pet.</hi> 1.16. <hi>Lev.</hi> 11.44. and how we are to worſhip God, <hi>Acts</hi> 24.14. Therefore they muſt needs be the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 13. The ſweet Harmony of the Scriptures prove them to be the Word of God; for no writings of man do ſo debaſe man, exalt God, and preſſe men to obedience. But the Pen-men of the Scriptures doe all agree together in theſe things; and although there were many Pen-men, yet there is no contradiction in their writings, but the Old Te<g ref="char:EOLhyphen"/>ſtament witneſſes to the New, and the New to the Old. It is not thus in the writings of men. Therefore they muſt needs be the Writings of God.</p>
+            <p>
+               <hi>Reaſon</hi> 14. If they were written by man, they were writ<g ref="char:EOLhyphen"/>ten either by good men or bad men. But they were not written by bad men, for they hate the purity of the Scrip<g ref="char:EOLhyphen"/>tures; and to be ſure they were not written by good men, (as the Authours thereof) for they abhor to lie, and ſay The Lord ſaith, if the Lord hath not ſaid the Word. There<g ref="char:EOLhyphen"/>fore they muſt needs be the written Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 15. The wonderful calling of <hi>Moſes,</hi> the Pro<g ref="char:EOLhyphen"/>phets, and Apoſtles, to make known the Scriptures, doe manifeſtly prove them to be the Word of God; ſee for <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> how he was called, <hi>Exod.</hi> 2.7, 10. and 3.2. <hi>Acts</hi> 7.20, 21. and <hi>Amos,</hi> and divers of the Apoſtles were unlearned men, which had not been brought up in the ſchools of men, <hi>Amos</hi> 7 14, 15. <hi>Mark</hi> 1.16. And yet theſe declared the Scriptures, which manifeſt more wiſdome then all the wiſe
+<pb n="10" facs="tcp:172959:10"/>men in the world can declare; yea, the Apoſtles that were unlearned and ignorant men, ſpake in ſeveral tongues the wonderful works of God, to the admiration of the hear<g ref="char:EOLhyphen"/>ers, <hi>Acts</hi> 2.11. and 4.13. this could not come from man. Therefore it muſt needs be the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 16. No writings of man could declare the heavy wrath of God againſt ſin, and the remedy how to get rid of that wrath. But this doth the Scriptures, <hi>Pſa.</hi> 9.17. <hi>Rom.</hi> 5.9. 1 <hi>Theſſ.</hi> 5.9 <hi>Luke</hi> 21.36. therefore they are the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 17. If the Scriptures were not the Word of God, but of man, then certainly God would not have wrought ſo many miracles to confirm the truth of mans ſayings. But there are many miracles both in the Old and New Te<g ref="char:EOLhyphen"/>ſtament, to confirm the truth of the Scriptures. There<g ref="char:EOLhyphen"/>fore they are the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 18. No creature, Angels, men or Devils, if all were put together, could ever be able to declare before hand, what particular perſons ſhould be born, and what ſhould be their names, and what they ſhould do, ſome thouſand and hundred years before their parents were born. But this do the Scriptures, as we read of the Meſſias <hi>Gen.</hi> 3.15. <hi>Iſa.</hi> 9.6, 7. and <hi>Ioſiah,</hi> 1 <hi>Kings</hi> 13.2. 2 <hi>Kings</hi> 23.16, 17. Therefore it is the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 19. No man will write and declare to the world their own failings and infirmities. But many of the Pen<g ref="char:EOLhyphen"/>men of the Scriptures do declare their own failings and in<g ref="char:EOLhyphen"/>firmities, which they would never have done, had they not been moved thereunto by the Spirit of God. Therefore the Scriptures muſt be the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 20. All the prophecies of the Scripture from time to time have been punctually performed and fulfilled. But ſo are not all mans prophecies. Therefore they are the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 21. The word of man is often broken. But the Scripture cannot be broken, <hi>Iohn</hi> 10.35. Therefore it is the Word of God.</p>
+            <p>
+               <hi>Reaſon</hi> 22. If the Scriptures were not the Word of God, the Churches of God would long before this time have
+<pb n="11" facs="tcp:172959:10"/>found them out to be only the word of man; as <hi>Jeremiah</hi> found out <hi>Hannaniah, Jer.</hi> 28.15, 16. and as the Church of <hi>Epheſus</hi> found out the falſe Apoſtles, <hi>Rev.</hi> 2.2. But the truth of Gods Word in the Scriptures hath ever been held forth by the Churches of God, as a Proclamation upon a pillar, 1 <hi>Tim.</hi> 3.15. Now as a Proclamation receives not its autho<g ref="char:EOLhyphen"/>rity from the pillar, nor the light from the Candleſtick that bears it: So neither do the truths of the Scriptures receive their authority from the Church, or any member thereof, but from God which is the onely Authour thereof, and ſo all Chriſtian Churches acknowledge. And thus you ſee, that the Scriptures are the Word of God, 1. Reaſon ſhews it. 2. The Spirit of God perſwades it, <hi>Iſa.</hi> 59.21. 3. The Scrip<g ref="char:EOLhyphen"/>tures themſelves affirm it; and 4. The Churches of God have ever received it as the Word of God. Therefore it muſt needs be the Word of God.</p>
+            <p>To conclude this: If the Scriptures be not the Word of God, but of man only; then 1. Man ſhould teach himſelf his duty towards God. 2. We ſhould have no certain rule for our Faith and Religion. 3. There ſhould be no neceſ<g ref="char:EOLhyphen"/>ſity of reading and hearing the Scriptures. 4. If we deny the Scriptures to bee the Word of God, we caſt off all means which God hath appointed for eternal life, <hi>Iohn</hi> 5.39. And laſtly, doubting of this, expoſes us to all Atheiſme, and con<g ref="char:EOLhyphen"/>tempt of Religion and Juſtice. Therefore, ſeeing (as hath been fully proved) the Scriptures themſelves, and Reaſon al<g ref="char:EOLhyphen"/>ſo make it apparent, that the Scriptures are the Word of God, let us believe they are ſo; And as the Apoſtle exhorts, <hi>Phil.</hi> 3.16. Let us walk by the ſame rule, and mind the ſame thing. And thus have I done with the firſt Propoſition, That the Scriptures contained in the Books of the Old and New Teſtament, commonly called the Bible, is the revealed Will and Word of God.</p>
+            <p>
+               <hi>Prop.</hi> II. I come now to the ſecond Propoſition; That the Scriptures which is the Word of God, is the only foun<g ref="char:EOLhyphen"/>dation for our faith, and the only rule for our obedience.</p>
+            <p>This Propoſition falls into theſe two parts: 1. That the Scriptures is the only foundation for our faith. 2. That it
+<pb n="12" facs="tcp:172959:11"/>is the only rule for our obedience. I ſhall very briefly ſpeak to both theſe things.</p>
+            <p>Firſt, That the Scriptures is the only foundation of our faith.</p>
+            <p n="1">1. The Scriptures are the means by which faith is wrought, <hi>Rom.</hi> 10.17. Faith cometh by hearing, and hearing by the Word of God, <hi>Eph.</hi> 1.13. In whom ye alſo truſted, after that ye heard the word of truth, the Goſpel of your ſalva<g ref="char:EOLhyphen"/>tion. And ſaith Chriſt, <hi>John</hi> 5.24. He that heareth my word, and believeth on him that ſent me, hath everlaſting life. And the Word is called the word of Faith, <hi>Rom.</hi> 10.8. The myſtery of Faith, 1 <hi>Tim.</hi> 3.9. The faith of the Goſ<g ref="char:EOLhyphen"/>pel, <hi>Phil.</hi> 1.27. And all this to teach us, that all true faith is wrought by and founded upon the Word of God.</p>
+            <p n="2">2. It is the very end why the Scriptures are written, <hi>John</hi> 20.31. That we might make them the foundation of our faith and hope in God, 1 <hi>John</hi> 5.13. Theſe things have I written, &amp;c. that ye may believe on the name of the Son of God. <hi>Rom.</hi> 15.4. Whatſoever things were written afore time, were written for our learning, that we through pati<g ref="char:EOLhyphen"/>ence and comfort of the Scriptures, might have hope.</p>
+            <p n="3">3. The Scriptures muſt needs be the only foundation to build faith on, becauſe we find the faithful in Scripture did ever make it the only foundation of their faith. <hi>Abraham</hi> the father of the faithful, he believed according to that which was ſpoken, <hi>Rom.</hi> 4.18. and <hi>David, Pſal.</hi> 119.42. I truſt in thy Word. And the Diſciples, <hi>Iohn</hi> 2.22. they belie<g ref="char:EOLhyphen"/>ved the Scriptures, and the Word which Jeſus had ſaid. And obſerve S. <hi>Pauls</hi> Confeſſion, <hi>Acts</hi> 24.14, 15. I confeſs unto thee, that after the way which they call Hereſie, ſo worſhip. I the God of my Fathers, believing all things which are writ<g ref="char:EOLhyphen"/>ten in the Law and the Prophets, and have hope towards God, &amp;c. And the <hi>Bereans, Acts</hi> 17.11, 12. ſearched the Scriptures, whether thoſe things were ſo; therefore many of them believed. And thus you ſee, they made the Scrip<g ref="char:EOLhyphen"/>tures the only foundation for their faith.</p>
+            <p n="4">4. They cannot have faith in Chriſt, that believe not the Scriptures; this is clearly proved by theſe Scriptures, <hi>Ioh.</hi> 5.46,
+<pb n="13" facs="tcp:172959:11"/>47. For had ye believed <hi>Moſes,</hi> ye would have believed me, for he wrote of me; But if ye believe not his writings, how ſhall ye believe my words? <hi>Luke</hi> 16 31. If they hear not <hi>Moſes</hi> and the Prophets, neither will they be perſwa<g ref="char:EOLhyphen"/>ded, though one riſe from the dead. And ſaith Chriſt, <hi>Ioh.</hi> 5.39 Search the Scriptures, for in them ye look to have eternal life, and they are they which teſtifie of me. By theſe Scriptures it is clear, that thoſe that believe not the Scrip<g ref="char:EOLhyphen"/>tures, cannot have faith in Chriſt by any other means. And therefore the Scriptures muſt needs be the only foundation of faith.</p>
+            <p n="5">5. It is only faith in the written Word of God, that will fill the ſoul with ſpiritual joy, <hi>Rom.</hi> 15 12.13. and hence it is, that <hi>David</hi> ſaith, <hi>Pſal.</hi> 119.162. I rejoice in thy Word, as one that findeth great ſpoil; and ſaith the Apoſtle, 1 <hi>Iohn</hi> 1.4 Theſe things have I written unto you, that your joy may be full. There can be no ſpiritual joy in thoſe that build not their faith in the written Word and promiſes of God. It is by faith in the Word, that believers of old (and at all times) obtained promiſes, <hi>Heb.</hi> 11.33. And Chriſt, when he was up<g ref="char:EOLhyphen"/>on the Earth, prayed for ſuch as ſhould believe on him through the Word (written by the Apoſtles and Evange<g ref="char:EOLhyphen"/>liſts) <hi>John</hi> 17.20. Therefore the written Word of God muſt needs be the only foundation of faith.</p>
+            <p>Laſtly, we are commanded to make the Word of God the ground of our faith; and it is condemned as a ſin, not to believe the Word of God, 2 <hi>Chro.</hi> 20.20. Believe in the Lord your God, ſo ſhall you be eſtabliſhed; Believe his Prophets, ſo ſhall ye proſper. <hi>Pſ.</hi> 106.24. They believed not his Word. <hi>Heb.</hi> 4.2. The Word preached did not profit them, not being mixt with faith in them that heard it. And thus you ſee God commands we ſhould build our faith upon the Scriptures: therefore they muſt needs be the only founda<g ref="char:EOLhyphen"/>tion of faith. Before I conclude this, take this Caution: Although the Word of God be the only foundation for us to build our faith on;<note place="margin">Caution.</note> yet the Word as it conſiſteth of letters and ſyllables, hath no ſtrength to beget faith in mens hearts, for many hear, but do not believe, <hi>Iſa.</hi> 6.9, 10 And
+<pb n="14" facs="tcp:172959:12"/>therefore it is only from the Spirits working, together with the Word, that faith is wrought, 1 <hi>Theſſ.</hi> 1.5. Our Goſpel came not in word only, but alſo in power and in the Holy Ghoſt. The Word works not faith without the Spirit, nei<g ref="char:EOLhyphen"/>ther doth the Spirit work faith without the Word; but the Spirit by the Word, works ſanctification, and a lively faith founded upon the Word, as ye may ſee in theſe Scriptures, <hi>John</hi> 17.17. <hi>John</hi> 6.63. <hi>Iſa.</hi> 59.21. <hi>Hag.</hi> 2.5. And thus have I proved the firſt part of the Propoſition, That the Scrip<g ref="char:EOLhyphen"/>tures is the only foundation of faith.</p>
+            <p>Secondly, I come now to the ſecond; That the Scriptures which are the Word of God, are the only rule for our obe<g ref="char:EOLhyphen"/>dience. I might for proof of this give you many teſtimo<g ref="char:EOLhyphen"/>nies of Scripture; but I ſhall name a few for all. <hi>Deut.</hi> 5.32, 33. Ye ſhall obſerve to do therefore, as the Lord hath com<g ref="char:EOLhyphen"/>manded you; ye ſhall not turn aſide to the right hand nor to the left; ye ſhall walk in all the ways which the Lord your God hath commanded you. <hi>Deut.</hi> 6.25. And it ſhall be our righteouſneſs, if we obſerve to do all theſe Command<g ref="char:EOLhyphen"/>ments before the Lord, as he hath commanded us. <hi>Joſh.</hi> 23.6. Keep and do all that is written in the Book of the Law of <hi>Moſes.</hi> The Word of God in the Old and New Teſtament, is a perfect Law, <hi>Pſ.</hi> 19.7. <hi>James</hi> 1.25. <hi>Rom.</hi> 8.2. And hence it is the Scriptures are ſaid to bee able to make the man of God perfect, 2 <hi>Tim.</hi> 3.17. And it muſt needs be ſo, becauſe where there is no tranſgreſſion of the Law of God, there is no ſin; for all ſin is the tranſgreſſion of the Law of God, 1 <hi>Ioh.</hi> 3.4. And therefore God promiſes to all thoſe he enters into Covenant with, To write his Law in their hearts, <hi>Ier.</hi> 31.33. <hi>Heb.</hi> 8.10. And of every righteous man it is ſaid, The Law of God is in his heart, <hi>Pſ.</hi> 37.31. By all which, it ap<g ref="char:EOLhyphen"/>pears the Word of God is the only rule for our obedience. It may alſo yet farther appear, if ye conſider,
+<list>
+                  <item>1. The Lord is the only Law-giver, <hi>Iam.</hi> 4.12. and his Word is the only right rule for our obedience, <hi>Pſ.</hi> 33.4. and therefore it is called the ſure Word, 2 <hi>Pet.</hi> 1.19. it will never fail.</item>
+                  <item>2. It is an everlaſting rule ſo long as we live on Earth,
+<pb n="15" facs="tcp:172959:12"/>1 <hi>Pet.</hi> 1.25 The Word of the Lord endureth for ever.</item>
+                  <item>3. No man can be blameleſs in his life, unleſs his conver<g ref="char:EOLhyphen"/>ſation be ordered according to the Word of God, <hi>Pſal.</hi> 119. 9 <hi>Luke</hi> 1.6. <hi>Titus</hi> 2.5.</item>
+                  <item>4. Every man ſhall be judged according to what is writ<g ref="char:EOLhyphen"/>ten in the Book of Gods Word, <hi>Iohn</hi> 12.48. <hi>Rev.</hi> 20.12.</item>
+               </list>
+            </p>
+            <p>Laſtly, there are many promiſes made to the keeping of Gods Word, and many threatnings denounced againſt ſuch as walk contrary to the rules of Gods Word, <hi>Gal.</hi> 6.16. <hi>Rev.</hi> 22.14. <hi>Luke</hi> 11.28. And for threatnings read <hi>Deut.</hi> 28.15. &amp;c. Before I conclude, take theſe two Cautions:</p>
+            <p>
+               <hi>Caution</hi> 1. Although the written Word of God be a per<g ref="char:EOLhyphen"/>fect rule of righteouſneſs, and the only rule for our obedi<g ref="char:EOLhyphen"/>ence; yet know, that no man can, or does perfectly fulfill the Law of God, for, <hi>Iames</hi> 3.2. In many things we offend all; and <hi>Prov.</hi> 20.9. Who can ſay, I have made my heart clean, I am pure from ſin? The moſt eminent believer ſins in many things; but the unbeliever ſins in all things, <hi>Heb.</hi> 11.6. Yet every godly man hath reſpect to all, and deſires and en<g ref="char:EOLhyphen"/>deavors to keep all the Commandments of God, <hi>Pſ.</hi> 119.5, 6. and do not willingly allow himſelf in any conſtant violati<g ref="char:EOLhyphen"/>on of Gods Law, but delights in it in the inward man, <hi>Rom.</hi> 7.15, 16. and the 22 verſe.</p>
+            <p>
+               <hi>Caution</hi> 2. Take this Caution; although believers are freed from the condemning power of the Law, yet are they not freed from the commanding or directing power thereof, 1 <hi>Cor.</hi> 9.21. 1 <hi>Tim.</hi> 1.8. To conclude, they that make not the Word of God the rule for their actions, are led either by their own fancies, or the Devils temptations, or both.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
